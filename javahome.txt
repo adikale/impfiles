@@ -1,4 +1,0 @@
-CLASSPATH
-.;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar
-JAVA_HOME
-C:\Program Files (x86)\Java\jdk1.8.0_25
